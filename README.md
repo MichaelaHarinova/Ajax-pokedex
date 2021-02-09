@@ -1,7 +1,7 @@
 # Ajax-pokedex
 
 
-![Pokémon](ajax-pokedex/icfSTV.jpg)
+![Pokémon](img/icfSTV.jpg)
 
 ### A group project created by two students of BeCode during our first month of learning JavaScript.
 
@@ -26,8 +26,16 @@
 >   * The previous evolution, _only if it exists_, along with their name and image.    
 
 
-### Layout
-![Screenshot HOME page](img/INDEX.png)
+## Layout of Pokedex - name search
+#### When searched by name and having previous evolution.
+![Screenshot Pokedex Layout](img/greninja.png)
+### Detail layout
+![Screenshot Pokedex Layout](img/pikachu.png)
+
+
+## Detail layout of Pokedex - ID search
+#### When searched by ID and not having previous evolution.
+![Screenshot Pokedex Layout](img/mankey.png)
 
 
 
